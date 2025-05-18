@@ -1,1 +1,3 @@
 # SOTA-Place-Recognitioner
+
+All the literatures are being sorted out and will be available soon...
