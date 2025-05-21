@@ -1,0 +1,7 @@
+@inproceedings{uy2018pointnetvlad,
+  title={Pointnetvlad: Deep point cloud based retrieval for large-scale place recognition},
+  author={Uy, Mikaela Angelina and Lee, Gim Hee},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4470--4479},
+  year={2018}
+}

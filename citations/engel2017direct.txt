@@ -1,0 +1,10 @@
+@article{engel2017direct,
+  title={Direct sparse odometry},
+  author={Engel, Jakob and Koltun, Vladlen and Cremers, Daniel},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={40},
+  number={3},
+  pages={611--625},
+  year={2017},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{chang2020spoxelnet,
+  title={SpoxelNet: Spherical voxel-based deep place recognition for 3D point clouds of crowded indoor spaces},
+  author={Chang, Min Young and Yeon, Suyong and Ryu, Soohyun and Lee, Donghwan},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8564--8570},
+  year={2020},
+  organization={IEEE}
+}

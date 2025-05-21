@@ -1,0 +1,9 @@
+@inproceedings{huang2024cross,
+  title={Cross-modal and uni-modal soft-label alignment for image-text retrieval},
+  author={Huang, Hailang and Nie, Zhijie and Wang, Ziqiao and Shang, Ziyu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={16},
+  pages={18298--18306},
+  year={2024}
+}

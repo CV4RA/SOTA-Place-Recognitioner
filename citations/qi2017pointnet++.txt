@@ -1,0 +1,7 @@
+@article{qi2017pointnet++,
+  title={Pointnet++: Deep hierarchical feature learning on point sets in a metric space},
+  author={Qi, Charles Ruizhongtai and Yi, Li and Su, Hao and Guibas, Leonidas J},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}

@@ -1,0 +1,7 @@
+@inproceedings{luo2023bevplace,
+  title={BEVPlace: Learning LiDAR-based place recognition using bird's eye view images},
+  author={Luo, Lun and Zheng, Shuhang and Li, Yixuan and Fan, Yongzhi and Yu, Beinan and Cao, Si-Yuan and Li, Junwei and Shen, Hui-Liang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={8700--8709},
+  year={2023}
+}

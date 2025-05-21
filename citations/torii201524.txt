@@ -1,0 +1,7 @@
+@inproceedings{torii201524,
+  title={24/7 place recognition by view synthesis},
+  author={Torii, Akihiko and Arandjelovic, Relja and Sivic, Josef and Okutomi, Masatoshi and Pajdla, Tomas},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1808--1817},
+  year={2015}
+}

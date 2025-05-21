@@ -1,0 +1,8 @@
+@inproceedings{mohan2015environment,
+  title={Environment selection and hierarchical place recognition},
+  author={Mohan, Mahesh and G{\'a}lvez-L{\'o}pez, Dorian and Monteleoni, Claire and Sibley, Gabe},
+  booktitle={2015 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={5487--5494},
+  year={2015},
+  organization={IEEE}
+}

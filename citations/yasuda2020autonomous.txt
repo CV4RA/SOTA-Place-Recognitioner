@@ -1,0 +1,10 @@
+@article{yasuda2020autonomous,
+  title={Autonomous visual navigation for mobile robots: A systematic literature review},
+  author={Yasuda, Yuri DV and Martins, Luiz Eduardo G and Cappabianco, Fabio AM},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={53},
+  number={1},
+  pages={1--34},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}

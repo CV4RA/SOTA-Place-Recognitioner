@@ -1,0 +1,6 @@
+@article{tzachor2024effovpr,
+  title={Effovpr: Effective foundation model utilization for visual place recognition},
+  author={Tzachor, Issar and Lerner, Boaz and Levy, Matan and Green, Michael and Shalev, Tal Berkovitz and Habib, Gavriel and Samuel, Dvir and Zailer, Noam Korngut and Shimshi, Or and Darshan, Nir and others},
+  journal={arXiv preprint arXiv:2405.18065},
+  year={2024}
+}

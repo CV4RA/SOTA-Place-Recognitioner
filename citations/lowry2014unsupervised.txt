@@ -1,0 +1,7 @@
+@inproceedings{lowry2014unsupervised,
+  title={Unsupervised online learning of condition-invariant images for place recognition},
+  author={Lowry, Stephanie and Wyeth, Gordon and Milford, Michael},
+  booktitle={Australasian Conference on Robotics and Automation},
+  volume={2014},
+  year={2014}
+}

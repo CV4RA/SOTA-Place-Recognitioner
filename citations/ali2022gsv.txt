@@ -1,0 +1,9 @@
+@article{ali2022gsv,
+  title={Gsv-cities: Toward appropriate supervised visual place recognition},
+  author={Ali-bey, Amar and Chaib-draa, Brahim and Gigu{\`e}re, Philippe},
+  journal={Neurocomputing},
+  volume={513},
+  pages={194--203},
+  year={2022},
+  publisher={Elsevier}
+}

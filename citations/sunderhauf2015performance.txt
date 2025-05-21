@@ -1,0 +1,8 @@
+@inproceedings{sunderhauf2015performance,
+  title={On the performance of convnet features for place recognition},
+  author={S{\"u}nderhauf, Niko and Shirazi, Sareh and Dayoub, Feras and Upcroft, Ben and Milford, Michael},
+  booktitle={2015 IEEE/RSJ international conference on intelligent robots and systems (IROS)},
+  pages={4297--4304},
+  year={2015},
+  organization={IEEE}
+}

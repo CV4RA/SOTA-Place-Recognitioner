@@ -1,0 +1,7 @@
+@inproceedings{torii2013visual,
+  title={Visual place recognition with repetitive structures},
+  author={Torii, Akihiko and Sivic, Josef and Pajdla, Tomas and Okutomi, Masatoshi},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={883--890},
+  year={2013}
+}

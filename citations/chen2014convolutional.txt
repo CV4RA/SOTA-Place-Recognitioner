@@ -1,0 +1,6 @@
+@article{chen2014convolutional,
+  title={Convolutional neural network-based place recognition},
+  author={Chen, Zetao and Lam, Obadiah and Jacobson, Adam and Milford, Michael},
+  journal={arXiv preprint arXiv:1411.1509},
+  year={2014}
+}

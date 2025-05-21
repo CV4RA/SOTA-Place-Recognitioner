@@ -1,0 +1,7 @@
+@article{kim2024narrowing,
+  title={Narrowing your fov with solid: Spatially organized and lightweight global descriptor for fov-constrained lidar place recognition},
+  author={Kim, Hogyun and Choi, Jiwon and Sim, Taehu and Kim, Giseop and Cho, Younggun},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}

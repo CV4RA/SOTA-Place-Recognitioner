@@ -1,0 +1,7 @@
+@inproceedings{ali2024boq,
+  title={BoQ: A place is worth a bag of learnable queries},
+  author={Ali-Bey, Amar and Chaib-draa, Brahim and Gigu{\`e}re, Philippe},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17794--17803},
+  year={2024}
+}

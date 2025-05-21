@@ -1,0 +1,6 @@
+@article{lu2025selavpr++,
+  title={SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition},
+  author={Lu, Feng and Jin, Tong and Lan, Xiangyuan and Zhang, Lijun and Liu, Yunpeng and Wang, Yaowei and Yuan, Chun},
+  journal={arXiv preprint arXiv:2502.16601},
+  year={2025}
+}

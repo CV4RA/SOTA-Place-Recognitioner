@@ -1,0 +1,8 @@
+@inproceedings{komorowski2022improving,
+  title={Improving point cloud based place recognition with ranking-based loss and large batch training},
+  author={Komorowski, Jacek},
+  booktitle={2022 26th international conference on pattern recognition (ICPR)},
+  pages={3699--3705},
+  year={2022},
+  organization={IEEE}
+}

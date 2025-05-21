@@ -1,0 +1,10 @@
+@article{ma2022overlaptransformer,
+  title={OverlapTransformer: An efficient and yaw-angle-invariant transformer network for LiDAR-based place recognition},
+  author={Ma, Junyi and Zhang, Jun and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={3},
+  pages={6958--6965},
+  year={2022},
+  publisher={IEEE}
+}

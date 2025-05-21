@@ -1,0 +1,7 @@
+@article{zhou2014learning,
+  title={Learning deep features for scene recognition using places database},
+  author={Zhou, Bolei and Lapedriza, Agata and Xiao, Jianxiong and Torralba, Antonio and Oliva, Aude},
+  journal={Advances in neural information processing systems},
+  volume={27},
+  year={2014}
+}

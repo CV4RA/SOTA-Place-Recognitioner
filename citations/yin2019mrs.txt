@@ -1,0 +1,8 @@
+@inproceedings{yin2019mrs,
+  title={Mrs-vpr: a multi-resolution sampling based global visual place recognition method},
+  author={Yin, Peng and Srivatsan, Rangaprasad Arun and Chen, Yin and Li, Xueqian and Zhang, Hongda and Xu, Lingyun and Li, Lu and Jia, Zhenzhong and Ji, Jianmin and He, Yuqing},
+  booktitle={2019 International conference on robotics and automation (ICRA)},
+  pages={7137--7142},
+  year={2019},
+  organization={IEEE}
+}

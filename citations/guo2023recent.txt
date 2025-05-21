@@ -1,0 +1,10 @@
+@article{guo2023recent,
+  title={Recent trends in task and motion planning for robotics: A survey},
+  author={Guo, Huihui and Wu, Fan and Qin, Yunchuan and Li, Ruihui and Li, Keqin and Li, Kenli},
+  journal={ACM Computing Surveys},
+  volume={55},
+  number={13s},
+  pages={1--36},
+  year={2023},
+  publisher={ACM New York, NY}
+}

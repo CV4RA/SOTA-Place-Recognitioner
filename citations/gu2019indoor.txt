@@ -1,0 +1,10 @@
+@article{gu2019indoor,
+  title={Indoor localization improved by spatial context—A survey},
+  author={Gu, Fuqiang and Hu, Xuke and Ramezani, Milad and Acharya, Debaditya and Khoshelham, Kourosh and Valaee, Shahrokh and Shang, Jianga},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={52},
+  number={3},
+  pages={1--35},
+  year={2019},
+  publisher={ACM New York, NY, USA}
+}

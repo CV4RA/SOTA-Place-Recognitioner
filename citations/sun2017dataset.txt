@@ -1,0 +1,7 @@
+@inproceedings{sun2017dataset,
+  title={A dataset for benchmarking image-based localization},
+  author={Sun, Xun and Xie, Yuanfan and Luo, Pei and Wang, Liang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={7436--7444},
+  year={2017}
+}

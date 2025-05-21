@@ -1,0 +1,10 @@
+@article{luo20243d,
+  title={3D point cloud-based place recognition: a survey},
+  author={Luo, Kan and Yu, Hongshan and Chen, Xieyuanli and Yang, Zhengeng and Wang, Jingwen and Cheng, Panfei and Mian, Ajmal},
+  journal={Artificial Intelligence Review},
+  volume={57},
+  number={4},
+  pages={83},
+  year={2024},
+  publisher={Springer}
+}

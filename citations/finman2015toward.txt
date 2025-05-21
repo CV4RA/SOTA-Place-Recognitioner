@@ -1,0 +1,8 @@
+@inproceedings{finman2015toward,
+  title={Toward object-based place recognition in dense rgb-d maps},
+  author={Finman, Ross and Paull, Liam and Leonard, John J},
+  booktitle={ICRA Workshop Visual Place Recognition in Changing Environments, Seattle, WA},
+  volume={76},
+  pages={480},
+  year={2015}
+}

@@ -1,0 +1,8 @@
+@inproceedings{hu2024progeo,
+  title={Progeo: Generating prompts through image-text contrastive learning for visual geo-localization},
+  author={Hu, Jingqi and Mao, Chen and Tan, Chong and Li, Hui and Liu, Hong and Zheng, Min},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={448--462},
+  year={2024},
+  organization={Springer}
+}

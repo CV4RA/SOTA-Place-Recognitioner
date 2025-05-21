@@ -1,0 +1,8 @@
+@article{zuo2025prgs,
+  title={PRGS: Patch-to-Region Graph Search for Visual Place Recognition},
+  author={Zuo, Weiliang and Liu, Liguo and Li, Yizhe and Shen, Yanqing and Xiang, Fuhua and Xin, Jingmin and Zheng, Nanning},
+  journal={Pattern Recognition},
+  pages={111673},
+  year={2025},
+  publisher={Elsevier}
+}

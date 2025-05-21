@@ -1,0 +1,10 @@
+@article{zhou2022loop,
+  title={Loop closure detection using local 3D deep descriptors},
+  author={Zhou, Youjie and Wang, Yiming and Poiesi, Fabio and Qin, Qi and Wan, Yi},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={3},
+  pages={6335--6342},
+  year={2022},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{xia2024text2loc,
+  title={Text2loc: 3d point cloud localization from natural language},
+  author={Xia, Yan and Shi, Letian and Ding, Zifeng and Henriques, Joao F and Cremers, Daniel},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={14958--14967},
+  year={2024}
+}

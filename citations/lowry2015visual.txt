@@ -1,0 +1,10 @@
+@article{lowry2015visual,
+  title={Visual place recognition: A survey},
+  author={Lowry, Stephanie and S{\"u}nderhauf, Niko and Newman, Paul and Leonard, John J and Cox, David and Corke, Peter and Milford, Michael J},
+  journal={ieee transactions on robotics},
+  volume={32},
+  number={1},
+  pages={1--19},
+  year={2015},
+  publisher={IEEE}
+}

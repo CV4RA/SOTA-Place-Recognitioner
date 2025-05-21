@@ -1,0 +1,8 @@
+@inproceedings{zhou2021ndt,
+  title={Ndt-transformer: Large-scale 3d point cloud localisation using the normal distribution transform representation},
+  author={Zhou, Zhicheng and Zhao, Cheng and Adolfsson, Daniel and Su, Songzhi and Gao, Yang and Duckett, Tom and Sun, Li},
+  booktitle={2021 IEEE international conference on robotics and automation (ICRA)},
+  pages={5654--5660},
+  year={2021},
+  organization={IEEE}
+}

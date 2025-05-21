@@ -1,0 +1,7 @@
+@inproceedings{gojcic2019perfect,
+  title={The perfect match: 3d point cloud matching with smoothed densities},
+  author={Gojcic, Zan and Zhou, Caifa and Wegner, Jan D and Wieser, Andreas},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={5545--5554},
+  year={2019}
+}

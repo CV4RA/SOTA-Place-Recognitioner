@@ -1,0 +1,8 @@
+@inproceedings{ge2020self,
+  title={Self-supervising fine-grained region similarities for large-scale image localization},
+  author={Ge, Yixiao and Wang, Haibo and Zhu, Feng and Zhao, Rui and Li, Hongsheng},
+  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part IV 16},
+  pages={369--386},
+  year={2020},
+  organization={Springer}
+}

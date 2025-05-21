@@ -1,0 +1,9 @@
+@inproceedings{wang2023text,
+  title={Text to point cloud localization with relation-enhanced transformer},
+  author={Wang, Guangzhi and Fan, Hehe and Kankanhalli, Mohan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={2},
+  pages={2501--2509},
+  year={2023}
+}

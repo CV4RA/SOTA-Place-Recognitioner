@@ -1,0 +1,10 @@
+@article{keetha2023anyloc,
+  title={Anyloc: Towards universal visual place recognition},
+  author={Keetha, Nikhil and Mishra, Avneesh and Karhade, Jay and Jatavallabhula, Krishna Murthy and Scherer, Sebastian and Krishna, Madhava and Garg, Sourav},
+  journal={IEEE Robotics and Automation Letters},
+  volume={9},
+  number={2},
+  pages={1286--1293},
+  year={2023},
+  publisher={IEEE}
+}

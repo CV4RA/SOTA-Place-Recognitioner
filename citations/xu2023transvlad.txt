@@ -1,0 +1,7 @@
+@inproceedings{xu2023transvlad,
+  title={TransVLAD: Multi-scale attention-based global descriptors for visual geo-localization},
+  author={Xu, Yifan and Shamsolmoali, Pourya and Granger, Eric and Nicodeme, Claire and Gardes, Laurent and Yang, Jie},
+  booktitle={Proceedings of the IEEE/CVF winter conference on applications of computer vision},
+  pages={2840--2849},
+  year={2023}
+}

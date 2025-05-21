@@ -1,0 +1,8 @@
+@inproceedings{glover2010fab,
+  title={FAB-MAP+ RatSLAM: Appearance-based SLAM for multiple times of day},
+  author={Glover, Arren J and Maddern, William P and Milford, Michael J and Wyeth, Gordon F},
+  booktitle={2010 IEEE international conference on robotics and automation},
+  pages={3507--3512},
+  year={2010},
+  organization={IEEE}
+}

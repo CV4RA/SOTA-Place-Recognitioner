@@ -1,0 +1,9 @@
+@inproceedings{lu2024deep,
+  title={Deep homography estimation for visual place recognition},
+  author={Lu, Feng and Dong, Shuting and Zhang, Lijun and Liu, Bingxi and Lan, Xiangyuan and Jiang, Dongmei and Yuan, Chun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={9},
+  pages={10341--10349},
+  year={2024}
+}

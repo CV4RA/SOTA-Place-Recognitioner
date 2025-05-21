@@ -1,0 +1,8 @@
+@inproceedings{vidanapathirana2022logg3d,
+  title={LoGG3D-Net: Locally guided global descriptor learning for 3D place recognition},
+  author={Vidanapathirana, Kavisha and Ramezani, Milad and Moghadam, Peyman and Sridharan, Sridha and Fookes, Clinton},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={2215--2221},
+  year={2022},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@article{leyva2021generalized,
+  title={Generalized contrastive optimization of siamese networks for place recognition},
+  author={Leyva-Vallina, Mar{\'\i}a and Strisciuglio, Nicola and Petkov, Nicolai},
+  journal={arXiv preprint arXiv:2103.06638},
+  year={2021}
+}

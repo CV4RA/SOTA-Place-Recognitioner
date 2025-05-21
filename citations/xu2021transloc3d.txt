@@ -1,0 +1,6 @@
+@article{xu2021transloc3d,
+  title={TransLoc3D: Point cloud based large-scale place recognition using adaptive receptive fields},
+  author={Xu, Tian-Xing and Guo, Yuan-Chen and Li, Zhiqiang and Yu, Ge and Lai, Yu-Kun and Zhang, Song-Hai},
+  journal={arXiv preprint arXiv:2105.11605},
+  year={2021}
+}

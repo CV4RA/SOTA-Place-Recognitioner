@@ -1,0 +1,10 @@
+@article{feder1999adaptive,
+  title={Adaptive mobile robot navigation and mapping},
+  author={Feder, Hans Jacob S and Leonard, John J and Smith, Christopher M},
+  journal={The International Journal of Robotics Research},
+  volume={18},
+  number={7},
+  pages={650--668},
+  year={1999},
+  publisher={SAGE Publications}
+}

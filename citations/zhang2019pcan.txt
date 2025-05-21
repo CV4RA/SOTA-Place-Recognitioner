@@ -1,0 +1,7 @@
+@inproceedings{zhang2019pcan,
+  title={PCAN: 3D attention map learning using contextual information for point cloud based retrieval},
+  author={Zhang, Wenxiao and Xiao, Chunxia},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={12436--12445},
+  year={2019}
+}

@@ -1,0 +1,7 @@
+@inproceedings{berton2023eigenplaces,
+  title={Eigenplaces: Training viewpoint robust models for visual place recognition},
+  author={Berton, Gabriele and Trivigno, Gabriele and Caputo, Barbara and Masone, Carlo},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11080--11090},
+  year={2023}
+}

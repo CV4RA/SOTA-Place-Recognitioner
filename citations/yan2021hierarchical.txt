@@ -1,0 +1,8 @@
+@inproceedings{yan2021hierarchical,
+  title={Hierarchical attention fusion for geo-localization},
+  author={Yan, Liqi and Cui, Yiming and Chen, Yingjie and Liu, Dongfang},
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2220--2224},
+  year={2021},
+  organization={IEEE}
+}

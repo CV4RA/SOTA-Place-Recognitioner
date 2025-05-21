@@ -1,0 +1,10 @@
+@article{khan2022level,
+  title={Level-5 autonomous driving—Are we there yet? A review of research literature},
+  author={Khan, Manzoor Ahmed and Sayed, Hesham El and Malik, Sumbal and Zia, Talha and Khan, Jalal and Alkaabi, Najla and Ignatious, Henry},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={55},
+  number={2},
+  pages={1--38},
+  year={2022},
+  publisher={ACM New York, NY}
+}

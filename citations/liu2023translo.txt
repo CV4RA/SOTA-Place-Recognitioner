@@ -1,0 +1,9 @@
+@inproceedings{liu2023translo,
+  title={Translo: A window-based masked point transformer framework for large-scale lidar odometry},
+  author={Liu, Jiuming and Wang, Guangming and Jiang, Chaokang and Liu, Zhe and Wang, Hesheng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={2},
+  pages={1683--1691},
+  year={2023}
+}

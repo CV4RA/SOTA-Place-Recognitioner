@@ -1,0 +1,7 @@
+@article{nahavandi2022comprehensive,
+  title={A comprehensive review on autonomous navigation},
+  author={Nahavandi, Saeid and Alizadehsani, Roohallah and Nahavandi, Darius and Mohamed, Shady and Mohajer, Navid and Rokonuzzaman, Mohammad and Hossain, Ibrahim},
+  journal={ACM Computing Surveys},
+  year={2022},
+  publisher={ACM New York, NY}
+}

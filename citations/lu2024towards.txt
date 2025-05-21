@@ -1,0 +1,6 @@
+@article{lu2024towards,
+  title={Towards seamless adaptation of pre-trained models for visual place recognition},
+  author={Lu, Feng and Zhang, Lijun and Lan, Xiangyuan and Dong, Shuting and Wang, Yaowei and Yuan, Chun},
+  journal={arXiv preprint arXiv:2402.14505},
+  year={2024}
+}

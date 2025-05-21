@@ -1,0 +1,8 @@
+@inproceedings{du2020dh3d,
+  title={Dh3d: Deep hierarchical 3d descriptors for robust large-scale 6dof relocalization},
+  author={Du, Juan and Wang, Rui and Cremers, Daniel},
+  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part IV 16},
+  pages={744--762},
+  year={2020},
+  organization={Springer}
+}

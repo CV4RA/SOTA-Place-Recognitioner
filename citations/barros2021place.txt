@@ -1,0 +1,6 @@
+@article{barros2021place,
+  title={Place recognition survey: An update on deep learning approaches},
+  author={Barros, Tiago and Pereira, Ricardo and Garrote, Lu{\'\i}s and Premebida, Cristiano and Nunes, Urbano J},
+  journal={arXiv preprint arXiv:2106.10458},
+  year={2021}
+}

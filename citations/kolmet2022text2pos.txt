@@ -1,0 +1,7 @@
+@inproceedings{kolmet2022text2pos,
+  title={Text2pos: Text-to-point-cloud cross-modal localization},
+  author={Kolmet, Manuel and Zhou, Qunjie and O{\v{s}}ep, Aljo{\v{s}}a and Leal-Taix{\'e}, Laura},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6687--6696},
+  year={2022}
+}

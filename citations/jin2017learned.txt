@@ -1,0 +1,7 @@
+@inproceedings{jin2017learned,
+  title={Learned contextual feature reweighting for image geo-localization},
+  author={Jin Kim, Hyo and Dunn, Enrique and Frahm, Jan-Michael},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={2136--2145},
+  year={2017}
+}

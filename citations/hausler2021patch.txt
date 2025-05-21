@@ -1,0 +1,7 @@
+@inproceedings{hausler2021patch,
+  title={Patch-netvlad: Multi-scale fusion of locally-global descriptors for place recognition},
+  author={Hausler, Stephen and Garg, Sourav and Xu, Ming and Milford, Michael and Fischer, Tobias},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={14141--14152},
+  year={2021}
+}

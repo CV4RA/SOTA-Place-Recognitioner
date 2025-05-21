@@ -1,0 +1,8 @@
+@inproceedings{talbot2018openseqslam2,
+  title={OpenSeqSLAM2. 0: An open source toolbox for visual place recognition under changing conditions},
+  author={Talbot, Ben and Garg, Sourav and Milford, Michael},
+  booktitle={2018 IEEE/RSJ international conference on intelligent robots and systems (IROS)},
+  pages={7758--7765},
+  year={2018},
+  organization={IEEE}
+}

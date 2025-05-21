@@ -1,0 +1,9 @@
+@article{li2024cspformer,
+  title={CSPFormer: A cross-spatial pyramid transformer for visual place recognition},
+  author={Li, Zhenyu and Xu, Pengjie},
+  journal={Neurocomputing},
+  volume={580},
+  pages={127472},
+  year={2024},
+  publisher={Elsevier}
+}

@@ -1,0 +1,6 @@
+@article{wang2025ranking,
+  title={Ranking-aware Continual Learning for LiDAR Place Recognition},
+  author={Wang, Xufei and Tian, Gengxuan and Zhao, Junqiao and Tao, Siyue and Gu, Qiwen and Yu, Qiankun and Feng, Tiantian},
+  journal={arXiv preprint arXiv:2505.07198},
+  year={2025}
+}

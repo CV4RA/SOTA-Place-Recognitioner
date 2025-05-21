@@ -1,0 +1,6 @@
+@article{shang2025bridging,
+  title={Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition},
+  author={Shang, Tianyi and Li, Zhenyu and Xu, Pengjie and Qiao, Jinwei and Chen, Gang and Ruan, Zihan and Hu, Weijun},
+  journal={arXiv preprint arXiv:2502.14195},
+  year={2025}
+}

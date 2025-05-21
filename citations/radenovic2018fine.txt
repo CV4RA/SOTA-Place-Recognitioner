@@ -1,0 +1,10 @@
+@article{radenovic2018fine,
+  title={Fine-tuning CNN image retrieval with no human annotation},
+  author={Radenovi{\'c}, Filip and Tolias, Giorgos and Chum, Ond{\v{r}}ej},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={41},
+  number={7},
+  pages={1655--1668},
+  year={2018},
+  publisher={IEEE}
+}

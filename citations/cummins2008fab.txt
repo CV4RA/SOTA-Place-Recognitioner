@@ -1,0 +1,10 @@
+@article{cummins2008fab,
+  title={FAB-MAP: Probabilistic localization and mapping in the space of appearance},
+  author={Cummins, Mark and Newman, Paul},
+  journal={The International journal of robotics research},
+  volume={27},
+  number={6},
+  pages={647--665},
+  year={2008},
+  publisher={SAGE Publications Sage UK: London, England}
+}

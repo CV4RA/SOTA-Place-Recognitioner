@@ -1,0 +1,9 @@
+@inproceedings{fan2022svt,
+  title={Svt-net: Super light-weight sparse voxel transformer for large scale place recognition},
+  author={Fan, Zhaoxin and Song, Zhenbo and Liu, Hongyan and Lu, Zhiwu and He, Jun and Du, Xiaoyong},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={36},
+  number={1},
+  pages={551--560},
+  year={2022}
+}

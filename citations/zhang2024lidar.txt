@@ -1,0 +1,10 @@
+@article{zhang2024lidar,
+  title={Lidar-based place recognition for autonomous driving: A survey},
+  author={Zhang, Yongjun and Shi, Pengcheng and Li, Jiayuan},
+  journal={ACM Computing Surveys},
+  volume={57},
+  number={4},
+  pages={1--36},
+  year={2024},
+  publisher={ACM New York, NY}
+}

@@ -1,0 +1,7 @@
+@inproceedings{berton2022rethinking,
+  title={Rethinking visual geo-localization for large-scale applications},
+  author={Berton, Gabriele and Masone, Carlo and Caputo, Barbara},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4878--4888},
+  year={2022}
+}

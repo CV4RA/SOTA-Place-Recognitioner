@@ -1,0 +1,6 @@
+@article{shang2025text,
+  title={Text-Driven 3D Lidar Place Recognition for Autonomous Driving},
+  author={Shang, Tianyi and Li, Zhenyu and Xu, Pengjie and Deng, Zhaojun and Zhang, Ruirui},
+  journal={arXiv preprint arXiv:2503.18035},
+  year={2025}
+}

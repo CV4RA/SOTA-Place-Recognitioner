@@ -1,0 +1,7 @@
+@inproceedings{revaud2019learning,
+  title={Learning with average precision: Training image retrieval with a listwise loss},
+  author={Revaud, Jerome and Almaz{\'a}n, Jon and Rezende, Rafael S and Souza, Cesar Roberto de},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5107--5116},
+  year={2019}
+}

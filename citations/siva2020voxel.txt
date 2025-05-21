@@ -1,0 +1,8 @@
+@inproceedings{siva2020voxel,
+  title={Voxel-based representation learning for place recognition based on 3d point clouds},
+  author={Siva, Sriram and Nahman, Zachary and Zhang, Hao},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8351--8357},
+  year={2020},
+  organization={IEEE}
+}

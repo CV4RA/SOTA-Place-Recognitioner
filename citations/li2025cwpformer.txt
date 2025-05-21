@@ -1,0 +1,7 @@
+@article{li2025cwpformer,
+  title={CWPFormer: Towards High-performance Visual Place Recognition for Robot with Cross-weight Attention Learning},
+  author={Li, Zhenyu and Xu, Pengjie and Shang, Tianyi},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2025},
+  publisher={IEEE}
+}

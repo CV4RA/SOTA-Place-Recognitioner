@@ -1,0 +1,8 @@
+@inproceedings{barros2022attdlnet,
+  title={Attdlnet: Attention-based deep network for 3d lidar place recognition},
+  author={Barros, Tiago and Garrote, Lu{\'\i}s and Pereira, Ricardo and Premebida, Cristiano and Nunes, Urbano J},
+  booktitle={Iberian Robotics conference},
+  pages={309--320},
+  year={2022},
+  organization={Springer}
+}

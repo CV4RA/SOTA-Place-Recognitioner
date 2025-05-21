@@ -1,0 +1,7 @@
+@inproceedings{huang2024360loc,
+  title={360loc: A dataset and benchmark for omnidirectional visual localization with cross-device queries},
+  author={Huang, Huajian and Liu, Changkun and Zhu, Yipeng and Cheng, Hui and Braud, Tristan and Yeung, Sai-Kit},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22314--22324},
+  year={2024}
+}

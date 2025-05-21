@@ -1,0 +1,10 @@
+@article{maddern20171,
+  title={1 year, 1000 km: The oxford robotcar dataset},
+  author={Maddern, Will and Pascoe, Geoffrey and Linegar, Chris and Newman, Paul},
+  journal={The International Journal of Robotics Research},
+  volume={36},
+  number={1},
+  pages={3--15},
+  year={2017},
+  publisher={SAGE Publications Sage UK: London, England}
+}

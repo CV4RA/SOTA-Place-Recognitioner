@@ -1,0 +1,10 @@
+@article{khaliq2019holistic,
+  title={A holistic visual place recognition approach using lightweight cnns for significant viewpoint and appearance changes},
+  author={Khaliq, Ahmad and Ehsan, Shoaib and Chen, Zetao and Milford, Michael and McDonald-Maier, Klaus},
+  journal={IEEE transactions on robotics},
+  volume={36},
+  number={2},
+  pages={561--569},
+  year={2019},
+  publisher={IEEE}
+}

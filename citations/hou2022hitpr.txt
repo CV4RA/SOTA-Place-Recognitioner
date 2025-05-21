@@ -1,0 +1,8 @@
+@inproceedings{hou2022hitpr,
+  title={Hitpr: Hierarchical transformer for place recognition in point cloud},
+  author={Hou, Zhixing and Yan, Yan and Xu, Chengzhong and Kong, Hui},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={2612--2618},
+  year={2022},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{hansen2014visual,
+  title={Visual place recognition using HMM sequence matching},
+  author={Hansen, Peter and Browning, Brett},
+  booktitle={2014 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={4549--4555},
+  year={2014},
+  organization={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{radwan2018vlocnet++,
+  title={Vlocnet++: Deep multitask learning for semantic visual localization and odometry},
+  author={Radwan, Noha and Valada, Abhinav and Burgard, Wolfram},
+  journal={IEEE Robotics and Automation Letters},
+  volume={3},
+  number={4},
+  pages={4407--4414},
+  year={2018},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{neuhold2017mapillary,
+  title={The mapillary vistas dataset for semantic understanding of street scenes},
+  author={Neuhold, Gerhard and Ollmann, Tobias and Rota Bulo, Samuel and Kontschieder, Peter},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={4990--4999},
+  year={2017}
+}

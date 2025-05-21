@@ -1,0 +1,10 @@
+@article{ma2022seqot,
+  title={Seqot: A spatial--temporal transformer network for place recognition using sequential lidar data},
+  author={Ma, Junyi and Chen, Xieyuanli and Xu, Jingyi and Xiong, Guangming},
+  journal={IEEE Transactions on Industrial Electronics},
+  volume={70},
+  number={8},
+  pages={8225--8234},
+  year={2022},
+  publisher={IEEE}
+}

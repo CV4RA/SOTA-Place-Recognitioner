@@ -1,0 +1,7 @@
+@inproceedings{komorowski2021minkloc3d,
+  title={Minkloc3d: Point cloud based large-scale place recognition},
+  author={Komorowski, Jacek},
+  booktitle={Proceedings of the IEEE/CVF winter conference on applications of computer vision},
+  pages={1790--1799},
+  year={2021}
+}

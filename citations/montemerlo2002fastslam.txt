@@ -1,0 +1,8 @@
+@article{montemerlo2002fastslam,
+  title={FastSLAM: A factored solution to the simultaneous localization and mapping problem},
+  author={Montemerlo, Michael and Thrun, Sebastian and Koller, Daphne and Wegbreit, Ben and others},
+  journal={Aaai/iaai},
+  volume={593598},
+  pages={593--598},
+  year={2002}
+}

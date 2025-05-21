@@ -1,0 +1,8 @@
+@inproceedings{panphattarasap2017visual,
+  title={Visual place recognition using landmark distribution descriptors},
+  author={Panphattarasap, Pilailuck and Calway, Andrew},
+  booktitle={Computer Vision--ACCV 2016: 13th Asian Conference on Computer Vision, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part IV 13},
+  pages={487--502},
+  year={2017},
+  organization={Springer}
+}

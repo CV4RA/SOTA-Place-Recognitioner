@@ -1,0 +1,10 @@
+@article{galvez2012bags,
+  title={Bags of binary words for fast place recognition in image sequences},
+  author={G{\'a}lvez-L{\'o}pez, Dorian and Tardos, Juan D},
+  journal={IEEE Transactions on robotics},
+  volume={28},
+  number={5},
+  pages={1188--1197},
+  year={2012},
+  publisher={IEEE}
+}
