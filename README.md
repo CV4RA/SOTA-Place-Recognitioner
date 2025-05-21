@@ -1,5 +1,12 @@
-# <center>Place Recognition Meets Autonomous Driving</center>
-  
+# <center>Place Recognition: A Comprehensive Review, Current Challenges and Future Directions</center>
+ 
+ <p align="center">
+Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng
+</p>
+<p align="center">
+
+  <center>[paper](https://arxiv.org/pdf/2505.14068)<center>
+
 ## Abstract
 Place recognition serves as a cornerstone of vehicle navigation and mapping, enabling systems to determine whether a location has been previously visited. This capability is critical for:
 - Loop closure in Simultaneous Localization and Mapping (SLAM)
