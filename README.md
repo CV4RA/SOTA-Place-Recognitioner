@@ -22,7 +22,11 @@ This paper provides a comprehensive review of recent advancements in place recog
 2. **Transformer-based Frameworks**  
 3. **Cross-modal Strategies**  
 
+<div align="center">
+
 [structure of our survey](pics/figure2.pdf)
+
+</div>
 
 ## 1. Introduction
 ### Significance in Autonomous Systems
