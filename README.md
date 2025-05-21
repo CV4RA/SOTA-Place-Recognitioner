@@ -7,7 +7,7 @@ Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng
 
 <div align="center">
   
-[paper](https://arxiv.org/pdf/2505.14068)
+[Our Survey](https://arxiv.org/pdf/2505.14068)
 
 </div>
 
@@ -45,11 +45,15 @@ Place recognition plays a pivotal role in:
 - Scalability in large-scale environments
 - Evolution from traditional features to deep learning
 
+![alt text](image.png)
+
 ### 2.2 Transformer-based Models
 **Advancements:**
 - Self-attention mechanisms capturing global dependencies
 - Improved generalization across diverse scenes
 - Handling of long-range spatial relationships
+
+![alt text](image-1.png)
 
 ### 2.3 Cross-modal Strategies
 **Innovations:**
@@ -61,6 +65,8 @@ Place recognition plays a pivotal role in:
   - Viewpoint variations
   - Illumination changes
   - Seasonal transitions
+
+  
 
 ## 3. Challenges & Future Directions
 
