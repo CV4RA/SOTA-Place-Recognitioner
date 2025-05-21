@@ -5,10 +5,10 @@ Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng
 </p>
 <p align="center">
 
- <p align="center">
+
 [<span style="color:red">Paper</span>](https://arxiv.org/pdf/2505.14068)
-</p>
-<p align="center">
+
+
   
 
 ## Abstract
