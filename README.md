@@ -5,12 +5,8 @@ Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng
 </p>
 <p align="center">
 
-
-[<span style="color:red">Paper</span>](https://arxiv.org/pdf/2505.14068)
-
-
-  
-
+[paper](https://arxiv.org/pdf/2505.14068)
+ 
 ## Abstract
 Place recognition serves as a cornerstone of vehicle navigation and mapping, enabling systems to determine whether a location has been previously visited. This capability is critical for:
 - Loop closure in Simultaneous Localization and Mapping (SLAM)
