@@ -37,7 +37,7 @@ Place recognition plays a pivotal role in:
 
 ## 2. Methodological Evolution
 
-![alt text](figure7.jpg)
+![alt text](figure3.jpg)
 
 ### 2.1 CNN-based Approaches
 **Key Contributions:**
