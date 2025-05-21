@@ -66,7 +66,7 @@ Place recognition plays a pivotal role in:
   - Illumination changes
   - Seasonal transitions
 
-  
+  ![alt text](image-2.png)
 
 ## 3. Challenges & Future Directions
 
