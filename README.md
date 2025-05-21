@@ -24,7 +24,7 @@ This paper provides a comprehensive review of recent advancements in place recog
 
 <div align="center">
 
-<img src="figure2.jpg" width="300">
+<img src="figure2.jpg" width="200">
 
 
 </div>
