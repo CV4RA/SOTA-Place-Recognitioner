@@ -5,7 +5,12 @@ Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng
 </p>
 <p align="center">
 
-![alt text](figure2.jpg)
+<div align="center">
+  
+[Our Survey](https://arxiv.org/pdf/2505.14068)
+
+</div>
+
  
 ## Abstract
 Place recognition is a cornerstone of vehicle navigation and mapping, which is pivotal in enabling systems to determine whether a location has been previously visited. This capability is critical for tasks such as loop closure in Simultaneous Localization and Mapping (SLAM) and long-term navigation under varying environmental conditions. This survey comprehensively reviews recent advancements in place recognition, emphasizing three representative methodological paradigms: Convolutional Neural Network (CNN)-based approaches, Transformer-based frameworks, and cross-modal strategies. We begin by elucidating the significance of place recognition within the broader context of autonomous systems. Subsequently, we trace the evolution of CNN-based methods, highlighting their contributions to robust visual descriptor learning and scalability in large-scale environments. We then examine the emerging class of Transformer-based models, which leverage self-attention mechanisms to capture global dependencies and offer improved generalization across diverse scenes. Furthermore, we discuss cross-modal approaches that integrate heterogeneous data sources such as Lidar, vision, and text description, thereby enhancing resilience to viewpoint, illumination, and seasonal variations. We also summarize standard datasets and evaluation metrics widely adopted in the literature. Finally, we identify current research challenges and outline prospective directions, including domain adaptation, real-time performance, and lifelong learning, to inspire future advancements in this domain.
@@ -19,7 +24,7 @@ This paper provides a comprehensive review of recent advancements in place recog
 
 <div align="center">
 
-[structure of our survey](pics/figure2.pdf)
+![alt text](figure2.jpg)
 
 </div>
 
