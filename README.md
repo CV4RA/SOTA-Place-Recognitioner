@@ -1,4 +1,4 @@
-# <center>Place Recognition: A Comprehensive Review, Current Challenges and Future Directions</center>
+# <center>Place Recognition Meet multiple Modalities: A Comprehensive Review, Current Challenges and Future Directions</center>
  
  <p align="center">
 Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng
