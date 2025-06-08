@@ -1,7 +1,7 @@
 # <center>Place Recognition Meet multiple Modalities: A Comprehensive Review, Current Challenges and Future Directions</center>
  
  <p align="center">
-<font color="#FF5A1F">Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng</font>
+<font color="red">Zhenyu Li, Tianyi Shang, Pengjie Xu, Zhaojun Deng</font>
 </p>
 <p align="center">
 
