@@ -215,7 +215,10 @@ Place recognition plays a pivotal role in:
 @article{li2025place,
   title={Place Recognition: A Comprehensive Review, Current Challenges and Future Directions},
   author={Li, Zhenyu and Shang, Tianyi and Xu, Pengjie and Deng, Zhaojun},
-  journal={arXiv preprint arXiv:2505.14068},
+  journal={Artificial Intelligence Review},
   year={2025},
-  doi={10.48550/arXiv.2505.14068}
+  volume={58},
+  number={11},
+  page+{1-48}.
+  doi={https://doi.org/10.1007/s10462-025-11367-8}
 }
