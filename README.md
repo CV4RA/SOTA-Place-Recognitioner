@@ -221,4 +221,3 @@ Place recognition plays a pivotal role in:
   number={11},
   page={1-48}.
   doi={https://doi.org/10.1007/s10462-025-11367-8}
-}
