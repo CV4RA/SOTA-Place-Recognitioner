@@ -219,6 +219,6 @@ Place recognition plays a pivotal role in:
   year={2025},
   volume={58},
   number={11},
-  page+{1-48}.
+  page={1-48}.
   doi={https://doi.org/10.1007/s10462-025-11367-8}
 }
