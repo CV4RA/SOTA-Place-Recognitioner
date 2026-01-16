@@ -210,6 +210,10 @@ Place recognition plays a pivotal role in:
 | [R2former: Uniffed retrieval and reranking transformer for place recognition](openaccess.thecvf.com/content/CVPR2023/html/Zhu_R2Former_Unified_Retrieval_and_Reranking_Transformer_for_Place_Recognition_CVPR_2023_paper.html) | Sijie Zhu | CVPR 2023  | [Github](https://github.com/Jeff-Zilence/R2Former) | [BibTex](citations/zhu2023r2former.txt)
 | [PRGS: Patch-to-Region Graph Search for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325003334) | Weiliang Zuo | Pattern Recognition 2025  | [Github](https://github.com/LKELN/PRGS) | [BibTex](citations/zuo2025prgs.txt)
 | [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109) | Zhenyu Li | arxiv  | [Github](https://github.com/CV4RA/A2GC) | [BibTex](citations/li20252.txt)
+| [FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260932) | Tianyi Shang | IEEE RAL | [Github](https://github.com/nuozimiaowu/FourierPlace) | [BibTex](shang2025fourierplace.txt)
+
+
+
 
 Cite this article:
 

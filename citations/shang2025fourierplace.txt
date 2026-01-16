@@ -1,0 +1,10 @@
+@article{shang2025fourierplace,
+  title={FourierPlace: A Vision-Language Localization Framework Based on Frequency Domain Representations},
+  author={Shang, Tianyi and Li, Zhenyu and Lu, Shuaishuai and Xu, Pengjie},
+  journal={IEEE Robotics and Automation Letters},
+  volume={11},
+  number={1},
+  pages={642--649},
+  year={2025},
+  publisher={IEEE}
+}
