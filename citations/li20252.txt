@@ -1,0 +1,6 @@
+@article{li20252,
+  title={$ A\^{} 2$ GC: $ A $ symmetric $ A $ ggregation with Geometric Constraints for Locally Aggregated Descriptors},
+  author={Li, Zhenyu and Shang, Tianyi},
+  journal={arXiv preprint arXiv:2511.14109},
+  year={2025}
+}

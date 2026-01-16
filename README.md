@@ -209,15 +209,8 @@ Place recognition plays a pivotal role in:
 | [Ndt-transformer: Large-scale 3d point cloud localisation using the normal distribution transform representation](https://ieeexplore.ieee.org/abstract/document/9560932) | Zhicheng Zhou | ICRA 2021  | [Github](https://github.com/dachengxiaocheng/NDT-Transformer) | [BibTex](citations/zhou2021ndt.txt)
 | [R2former: Uniffed retrieval and reranking transformer for place recognition](openaccess.thecvf.com/content/CVPR2023/html/Zhu_R2Former_Unified_Retrieval_and_Reranking_Transformer_for_Place_Recognition_CVPR_2023_paper.html) | Sijie Zhu | CVPR 2023  | [Github](https://github.com/Jeff-Zilence/R2Former) | [BibTex](citations/zhu2023r2former.txt)
 | [PRGS: Patch-to-Region Graph Search for Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325003334) | Weiliang Zuo | Pattern Recognition 2025  | [Github](https://github.com/LKELN/PRGS) | [BibTex](citations/zuo2025prgs.txt)
+| [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](https://arxiv.org/pdf/2511.14109) | Zhenyu Li | arxiv  | [Github](https://github.com/CV4RA/A2GC) | [BibTex](citations/li20252.txt)
 
+Cite this article:
 
-
-@article{li2025place,
-  title={Place Recognition: A Comprehensive Review, Current Challenges and Future Directions},
-  author={Li, Zhenyu and Shang, Tianyi and Xu, Pengjie and Deng, Zhaojun},
-  journal={Artificial Intelligence Review},
-  year={2025},
-  volume={58},
-  number={11},
-  page={1-48}.
-  doi={https://doi.org/10.1007/s10462-025-11367-8}
+Li, Z., Shang, T., Xu, P. et al. Place recognition meet multiple modalities: a comprehensive review, current challenges and future development. Artif Intell Rev 58, 363 (2025). https://doi.org/10.1007/s10462-025-11367-8
